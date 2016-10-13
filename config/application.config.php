@@ -5,6 +5,7 @@ return array(
         'Application',
         'Album',
         'AlbumRest',
+        'Practice',
     ),
     'module_listener_options' => array(
         'config_glob_paths'    => array(
