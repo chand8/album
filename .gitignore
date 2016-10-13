@@ -1,2 +1,5 @@
 git.pem
 git.pem.pub
+nbproject/
+nbproject/*
+
