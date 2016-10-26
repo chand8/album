@@ -31,4 +31,10 @@ return array(
             'practice' => __DIR__ . '/../view',
         ),
     ),
+    'service_manager'=>[
+        'factories'=>[
+            'PracticeService' => 'Practice\Factory\PracticeServiceFactory',
+            'DbAdapter' => 'Zend\Db\Adapter\AdapterServiceFactory',
+        ]
+    ]
 );
