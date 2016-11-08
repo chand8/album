@@ -19,7 +19,7 @@ return array(
     ),
     'router' => array(
         'routes' => array(
-            'post' => array(
+            'blog' => array(
                 'type' => 'segment',
                 'options' => array(
                     'route' => '/blog[/][:action][/:id]',

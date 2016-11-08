@@ -6,7 +6,8 @@ return array(
         'Album',
         'AlbumRest',
         'Practice',
-        'Blog'
+        'Blog',
+        'Post'
     ),
     'module_listener_options' => array(
         'config_glob_paths'    => array(
